@@ -1,5 +1,7 @@
 # ParentalControl
-Powershell script for user time limits written by DeepseekAI
+Powershell script for user time limits v0.15
+<ins>written by DeepseekAI</ins>.
+
 ## Functions of restriction
 - Of a specific user
 - Of operating mode (supporting 12\24h)
